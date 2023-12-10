@@ -1,3 +1,3 @@
 # HTML-Portfolio
 Portfolio
-Authot - Rishu Kumar
+Authot - < Rishu Kumar >
